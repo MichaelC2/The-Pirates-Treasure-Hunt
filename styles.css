@@ -1,0 +1,26 @@
+body{
+    background: url("https://ak6.picdn.net/shutterstock/videos/3559616/thumb/1.jpg");
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Charmonman', cursive;
+}
+.ship{
+    width: 700px;
+}
+p{
+     font-family: 'Charmonman', cursive;
+    font-size: 50px;
+}
+.island{
+    width: 600px;
+}
+h2{
+    font-family: 'Charmonman', cursive;
+    font-size: 50px;
+}
+.treasure{
+    
+}
